@@ -7,6 +7,10 @@
     text-align: center;
     background-color: #f4f0fa;
   }
+
+  button{
+    margin: 1rem;
+  }
   
   .counter h1 {
     text-transform: uppercase;
