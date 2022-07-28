@@ -1,12 +1,14 @@
 import React from 'react'
-import CakeHook from './components/CakeHook'
-import CakeNoHooks from './components/CakeNoHooks'
+import UserView from './components/user/UserView'
+// import CakeHook from './components/CakeHook'
+// import CakeNoHooks from './components/CakeNoHooks'
 
 const App = () => {
   return (
     <>
-    <CakeHook />
-    <CakeNoHooks />
+    {/* <CakeHook />
+    <CakeNoHooks /> */}
+    <UserView />
     </>
   )
 }
